@@ -142,4 +142,4 @@ ubuntu_full_version=$(grep '^VERSION_ID=' /etc/os-release | cut -d '"' -f 2)
 ubuntu_major_version=$(echo "$ubuntu_full_version" | cut -d '.' -f 1)
 
 # senha que será usada para todos os serviços do openstack
-senha="@dm1nS3nh@P@ssw0rd"
+senha="admin"
