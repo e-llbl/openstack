@@ -6,6 +6,7 @@ Este repositório contém scripts para configurar um ambiente **OpenStack** em m
 ## 🚀 Passo a passo de instalação
 
 ### 1. Clone o repositório
+
 ```bash
 git clone https://github.com/e-llbl/openstack
 ```
